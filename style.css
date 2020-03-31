@@ -1,0 +1,102 @@
+body{
+    background-color:lightblue;
+}
+
+/* h1{
+    color:rgb(252, 38, 0);
+    text-aligin:center;
+}
+p{
+    font-family: serif;
+    font-size: 20px;
+} */
+
+/* css selector  */
+ /* calss selector
+ #id selector 
+ *  selector 
+ p element
+  */
+
+  /* css have 3 type of css */
+
+  /* External css
+  Internal css
+  inline css  */
+
+
+  /* css comment  */
+  /* this is css comment  */
+
+  /* css color  */
+  /* p{
+      color :tomato;
+      background-color:orange;
+      border-radius:DodgerBlue;
+  } */
+
+  /* css hase a 3 value  */
+  /* css rgb color  */
+  RGB(255, 99, 71);
+  /* css hex colos  */
+  #rrggbb
+  /* hsla(9,100%, 64% 0.5): */
+
+  /* css backgroudn-color  */
+  body{
+      background-color:lightcoral
+  }
+  /* css opacity  */
+  P{
+      /* opacity:0.3; */
+      background-color:rgba(76, 175, 80, 0.3)
+  }
+  p{
+      background-image:url("image.jpg");
+      background-repeat: repeat-x;
+      background-repeat:repeat-y;
+      background-repeat:repeat;
+      background-repeat:no-repeat;
+  }
+  /* background pssiton  */
+
+  p{
+    background-position: top top;
+    background-position: top center;
+    background-position: top right;
+    background-position: top ;
+  }
+
+  p{
+      background-attachment:fixed;
+      background-attachment: scroll;
+  }
+
+  /* css background shorthand  */
+  /* background-color
+background-image
+background-repeat
+background-attachment
+background-position */
+/* css later spacing  */
+/* letter-spacing: 3px; */
+
+/* unvisited link */
+.nav a:link {
+    color: lawngreen;
+  }
+  
+  /* visited link */
+  .nav a:visited {
+    color: lightcoral;
+  }
+  
+  /* mouse over link */
+ .nav a:hover {
+    color:lightseagreen
+  }
+  
+  /* selected link */
+  .nva a:active {
+    color: blue;
+  }
